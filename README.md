@@ -10,7 +10,8 @@
 * After the game is finished it should be possible to start a new game.
 
 
- ![ Illustration for the project](https://github.com/alenovaA/to-do-list/raw/main/Screenshot%20memory-card-game.png)
+ ![ Illustration for the project](https://github.com/alenovaA/memory-card-game/raw/main/Screenshot%20memory-card-game.png)
+ 
 CLONE
 git clone git@gitlab.com:alenova.a/memory-card-game.git
 cd memory-game
