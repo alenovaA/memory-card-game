@@ -1,4 +1,4 @@
-## Create a small 2-player memory game in Angular (or React, select the one you know/prefer more):
+## Create a small 2-player memory game in  React:
 
 * When the game begins 20 cards (10 pairs) are placed randomly with the back side up.
 * A player chosen at random begins (it should be obvious whose turn it is).
@@ -10,6 +10,7 @@
 * After the game is finished it should be possible to start a new game.
 
 
+ ![ Illustration for the project](https://github.com/alenovaA/to-do-list/raw/main/Screenshot%20memory-card-game.png)
 CLONE
 git clone git@gitlab.com:alenova.a/memory-card-game.git
 cd memory-game
